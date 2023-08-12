@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "9WRNrAAgvwhuOX9dXdRGNt9fKfQnd6r+8DJUMPnf0hk=",
+  "Source": "Projeto Web LH-Pets",
+  "BasePath": "_content/Projeto Web LH-Pets",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto Web LH-Pets\\wwwroot",
+      "Source": "Projeto Web LH-Pets",
+      "ContentRoot": "C:\\Users\\betsy\\Documents\\Curso SENAI\\Projeto Web LH-Pets\\wwwroot\\",
+      "BasePath": "_content/Projeto Web LH-Pets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\betsy\\Documents\\Curso SENAI\\Projeto Web LH-Pets\\wwwroot\\index.html",
+      "SourceId": "Projeto Web LH-Pets",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\betsy\\Documents\\Curso SENAI\\Projeto Web LH-Pets\\wwwroot\\",
+      "BasePath": "_content/Projeto Web LH-Pets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
